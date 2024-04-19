@@ -25,5 +25,5 @@
   
 </div>
 
-[snake gif](https://github.com/DazaiWP/DazaiWP/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DazaiWP/DazaiWP/blob/output/github-contribution-grid-snake.svg)
 
