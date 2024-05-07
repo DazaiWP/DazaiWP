@@ -1,4 +1,4 @@
-###  Me chamo Guilherme Marques sou programador e estudo Engenharia de Software👋
+###  Me chamo Guilherme Marques sou desenvolvedor e estudo Engenharia de Software👋
 
 - 🔭 I’m currently working  Protheus
 - 🌱 I’m currently learning Java/Html/Sql
