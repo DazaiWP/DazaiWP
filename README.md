@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Guilherme Marques!
 
-Sou desenvolvedor apaixonado por tecnologia e estudante de Engenharia de Software. Gosto de desafios, de aprender coisas novas e de compartilhar conhecimento!
+Sou desenvolvedor apaixonado por tecnologia e formado em Engenharia de Software. Gosto de desafios, de aprender coisas novas e de compartilhar conhecimento!
 
 - 💼 Atualmente sou **Analista de Sistemas** na [Tropeira Alimentos](https://www.tropeiraalimentos.com.br/)
 - 🔭 Trabalho com **ADVPL/Protheus**
