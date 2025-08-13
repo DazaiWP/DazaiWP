@@ -6,7 +6,6 @@ Sou desenvolvedor apaixonado por tecnologia e formado em Engenharia de Software.
 - 🔭 Trabalho com **ADVPL/Protheus**
 - 🗃️ Experiência com **SQL**
 - 🔗 Conhecimento em **REST** e **APIs**
-- 🌱 Sempre buscando evoluir em Java, HTML e outras tecnologias
 - 📫 Entre em contato: guilhermemarques2170@gmail.com
 
 ## 🛠️ Tecnologias e Ferramentas
